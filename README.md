@@ -1,4 +1,11 @@
-### Hi, I'm Nerm
-I'm a software engineer passionate about web development and cloud infrastructure.
+### Hi, I'm Nermin
+
+Software Engineer @ Kogan.com
+
+#### Interests:
+- Cloud Infrastructure
+- Distributed Systems
+- Systems Programming
+- Containers
 
 ![gopher dancing](./dancing-gopher.gif)
