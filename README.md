@@ -8,5 +8,3 @@ Software Engineer @ Kogan.com
 - Systems Programming
 - Containers
 - Open Telemetry / Observability
-
-![gopher dancing](./dancing-gopher.gif)
