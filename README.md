@@ -6,5 +6,5 @@ Software Engineer @ Kogan.com
 - Cloud Infrastructure
 - Distributed Systems
 - Systems Programming
-- Containers
+- Containers / Kubernetes
 - Open Telemetry / Observability
